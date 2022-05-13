@@ -47,40 +47,22 @@
 
 
 # Step by step helloworld HelmChart Deployment Process:
- ![image](https://user-images.githubusercontent.com/83760515/168247169-c0dd805c-aa9d-4549-8c7a-c2607a371c65.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247186-5cab4388-c9ee-4fa4-93c1-1bdd21230739.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247201-10c8a9b0-1265-4012-ac18-a126ab58c57b.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247215-6d79cf20-4d59-419c-965d-000e184a132d.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247249-7df5bc8e-c0c3-4460-aaf6-df21231bc901.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247263-e278bddb-eeba-4984-a24c-3e891ac457c0.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247266-14a93e42-365b-4721-9921-9907c251d46e.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247296-68d15dd6-812d-4985-8e3b-ea4f51685356.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247323-e963d9da-5c74-4997-b8a6-39135fa91d25.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247342-9eaec8c1-56dc-45a8-9922-39d8fbb54443.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247382-aa83082e-8484-448e-9c9a-d5b9e57f33bd.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247398-88290112-b315-4f5a-966d-8fc42c3a9814.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247425-7d10ce8e-74e7-4e68-89c9-0ae401a83c6a.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247441-959c6958-0d33-4546-93a2-4ae2c5f8d8a3.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247456-b6505fde-7314-4578-84b9-04fa7cc87819.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247465-fd1f5cb4-326a-47c6-a8ed-49a54c839266.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247477-8dd5a4c8-ff10-459c-bd58-46e16fe031fd.png)
-
- ![image](https://user-images.githubusercontent.com/83760515/168247500-caafa48c-3089-4e01-bc93-dd2830578368.png)
-
+ ![image](https://user-images.githubusercontent.com/96286875/168302629-26153a45-6e1f-4cbd-b183-1a58814d42f4.png)
+![image](https://user-images.githubusercontent.com/96286875/168302666-d1f1a757-d6fc-44e9-9546-d9f2fd557dbc.png)
+![image](https://user-images.githubusercontent.com/96286875/168302690-4891d3d9-0a2a-4a98-9a5f-f3f0bc819796.png)
+![image](https://user-images.githubusercontent.com/96286875/168302704-ed8073f9-701a-4bbc-a60d-3ed9ab0388e5.png)
+![image](https://user-images.githubusercontent.com/96286875/168302731-04c0c66b-9bb1-429c-a4bd-148ce3c9e0f7.png)
+![image](https://user-images.githubusercontent.com/96286875/168302758-6805af38-52dc-4e7e-b66b-0e7fb900d713.png)
+![image](https://user-images.githubusercontent.com/96286875/168302796-8139a2cc-5238-46e6-9c5d-9d0a130e2e0c.png)
+![image](https://user-images.githubusercontent.com/96286875/168302850-be879f9c-4a01-42da-8d4b-64f6045ed33d.png)
+![image](https://user-images.githubusercontent.com/96286875/168302886-4ad9c1e3-5031-4d98-9db1-730e8a429c68.png)
+![image](https://user-images.githubusercontent.com/96286875/168302906-9fe60a09-9254-4bce-8ed4-001807f7d453.png)
+![image](https://user-images.githubusercontent.com/96286875/168302935-968ad813-d282-4d5d-be1e-97bd669007ea.png)
+![image](https://user-images.githubusercontent.com/96286875/168302964-4dc18243-2749-4e3a-81ed-5cd15f5cbba3.png)
+![image](https://user-images.githubusercontent.com/96286875/168302996-69e57fda-2fb6-4e7a-a213-465263eef581.png)
+![image](https://user-images.githubusercontent.com/96286875/168303063-455e254d-c4eb-46da-a567-c723f141b3a4.png)
+![image](https://user-images.githubusercontent.com/96286875/168303113-ef1be8ee-671d-4fbf-ab94-05856fd79996.png)
+![image](https://user-images.githubusercontent.com/96286875/168303169-b5f8a206-3de1-44f0-a983-e621cdbe1436.png)
+![image](https://user-images.githubusercontent.com/96286875/168303203-01ae1bbd-e093-4039-aebf-72b816165801.png)
+![image](https://user-images.githubusercontent.com/96286875/168303236-69fa685e-39d0-40c2-886d-e84a7f7ee390.png)
 
